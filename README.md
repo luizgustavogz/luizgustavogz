@@ -1,8 +1,8 @@
 ## Oi, eu sou o Luiz!
  <div>
-  <a href="https://github.com/luizgz02">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizgz02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgz02&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/luizgustavogz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizgustavogz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgustavogz&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
  
  ## Conhecimentos
@@ -24,6 +24,6 @@
   <a href = "mailto:contatoluiz.gustavogz02@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luiz-gustavo-oliveira-cunha-a9b329176/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     
-![Snake animation](https://github.com/luizgz02/luizgz02/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/luizgustavogz/luizgustavogz/blob/output/github-contribution-grid-snake.svg)
     
 </div>
