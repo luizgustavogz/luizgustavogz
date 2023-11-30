@@ -16,6 +16,8 @@
 <a href="https://www.linkedin.com/in/luiz-gustavo-oliveira-cunha-a9b329176/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+<br>
+
 ### Main skills:
 <div style="display: inline_block">
 <img align="center" alt="Luiz-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
