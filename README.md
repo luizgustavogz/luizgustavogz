@@ -12,9 +12,10 @@
 <div align="center">
   <a href="https://github.com/luizgustavogz/github-readme-streak-stats">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="luizgustavogz's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=luizgustavogz&theme=python-dark&hide_border=true&stroke=0000&background=0d1117"/>
+      <!-- theme=tokyonight-duo / ayu-mirage / python-dark -->
   </a>
 </div>
-<!-- tokyonight-duo / ayu-mirage / python-dark !>
+
 
 </div>
 
