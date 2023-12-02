@@ -9,6 +9,15 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgustavogz&layout=compact&hide_border=true&title_color=3CA3F4&text_color=dcc70a&bg_color=0d1117" />
 </div>
 
+<div align="center">
+  <a href="https://github.com/luizgustavogz/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="luizgustavogz's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=luizgustavogz&theme=python-dark&hide_border=true&stroke=0000&background=0d1117"/>
+  </a>
+</div>
+<!-- tokyonight-duo / ayu-mirage / python-dark !>
+
+</div>
+
 ### Contact:
 <div> 
 <a href="https://www.instagram.com/luiz.gustavogz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
